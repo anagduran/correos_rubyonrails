@@ -1,0 +1,2 @@
+class Nan < ApplicationRecord
+end
